@@ -1,3 +1,1 @@
-# Hello, I am Chris
-
-I do computers
+![120](120.jpg)
